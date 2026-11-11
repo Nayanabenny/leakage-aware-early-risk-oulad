@@ -1,0 +1,18 @@
+# OULAD data (download separately, see README)
+Dataset/*
+!Dataset/README.md
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+catboost_info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+~$*
